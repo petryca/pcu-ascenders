@@ -2,7 +2,6 @@
 
 ## Lecturer: David Petryca – david.p@praguecollege.cz
 
-# Web Design Syllabus
 ### Week 1: Introduction to Web Design (1 class)
 
 - **Course Overview**: Objectives, structure, and expectations.
